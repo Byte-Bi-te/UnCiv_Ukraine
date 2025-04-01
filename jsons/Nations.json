@@ -29,7 +29,7 @@
 
 		"outerColor": [255,255,255],
 		"innerColor": [0,128,255],
-		"unique": "Comment [Ukraine is a country in Eastern Europe. It is the second-largest country in Europe after Russia, which borders it to the east and northeast.], Comment [Kyiv is the nation's capital and largest city, followed by Kharkiv, Dnipro, and Odesa. Ukraine's official language is Ukrainian.]",
+		"unique": "When defeating a [{Barbarian} {Land}] unit, earn [20] Gold and recruit it <with [25]% chance>",
 		"cities": ["Kyiv","Kharkiv","Lviv","Odessa","Dnipro","Luhansk","Donetsk","Poltava","Zaporizhzhia",
 			"Vinnytsia","Lutsk","Zhytomyr","Uzhorod","Ivano-Frankivsk","Kropyvnytski","Mykolaiv","Rivne","Sumy","Ternopil",
 			"Kherson","Khmelnytsky","Cherkasy","Chernivtsi","Chernihiv","Myrhorod","Mariupol","Kamianske","Uman","Nikopol",
