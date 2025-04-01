@@ -1,20 +1,20 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"name": "Ukraine",
+		"leaderName": "Simon Petlyura",
+		"adjective": ["ukrainian"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Cultural",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "Ukraine’s glory has not yet died, nor her glory or freedom.",
+		"startIntroPart2": "Upon us, my young brothers, fate shall yet smile.",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "For our Holy Land!",
+		"attacked": "We will not give up even an inch of our lands!",
+		"defeated": "Know this... one day... we will rise again...",
+		"introduction": "It's a pleasure.",
 		
-		"neutralHello": "How are you doing?",
+		"neutralHello": "Welcome, take a seat!",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
 		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
 		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
@@ -24,15 +24,15 @@
 		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
 		"hateYes": ["That is fine.","That is good enough.","Very well..."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "Very well, but we shall remain vigilant.",
+		"tradeRequest": "Pleasure doing business with you...",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
+		"outerColor": [255,255,255],
+		"innerColor": [0,128,255],
 		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"cities": ["Kyiv","Kharkiv","Lviv","Odessa","Dnipro","Luhansk","Donetsk","Poltava","Zaporizhzhia",
+			"Vinnytsia","Lutsk","Zhytomyr","Uzhorod","Ivano-Frankivsk","Kropyvnytski","Mykolaiv","Rivne","Sumy","Ternopil",
+			"Kherson","Khmelnytsky","Cherkasy","Chernivtsi","Chernihiv","Myrhorod","Mariupol","Kamianske","Uman","Nikopol",
+			"Podilsk","Khotyn","Melitopol","Pavlohrad","Mukachevo","Konotop"]
 	}
 ]
